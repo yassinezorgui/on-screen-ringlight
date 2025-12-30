@@ -1,9 +1,9 @@
 # RingLight
 
 Simple on-screen ringlight overlay written in PyQt5.
+<img width="1920" height="1080" alt="demo" src="https://github.com/user-attachments/assets/71209249-ca5f-4142-8a1b-fbb3996b1236" />
+## Usage
 
-Usage
------
 
 1. Create and activate a virtual environment (recommended):
 
@@ -60,7 +60,3 @@ Development notes
 -----------------
 - Main code is in `main.py`.
 - The control panel syncs slider values with the overlay at runtime.
-
-License
--------
-- (No license specified.)
